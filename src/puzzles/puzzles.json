@@ -1,0 +1,120 @@
+[
+  {
+    "id": 1,
+    "date": "2026-11-24",
+    "categoryA": { "label": "Pokémon", "emoji": "⚡" },
+    "categoryB": { "label": "Prescription medications", "emoji": "💊" },
+    "shortTitle": "Pokémon vs Prescription Meds",
+    "packages": [
+      { "name": "Xatu", "answer": "A", "reveal": "A psychic bird Pokémon — not a sleeping pill." },
+      { "name": "Lamictal", "answer": "B", "reveal": "Brand name for lamotrigine, an anticonvulsant." },
+      { "name": "Agumon", "answer": "NEITHER", "reveal": "A Digimon. Wrong franchise, officer." },
+      { "name": "Probopass", "answer": "A", "reveal": "A Rock/Steel Pokémon with a magnetic mustache." },
+      { "name": "Ditropan", "answer": "B", "reveal": "Oxybutynin — treats overactive bladder." },
+      { "name": "Klefki", "answer": "A", "reveal": "A Pokémon that is literally a keyring." },
+      { "name": "Fexoprax", "answer": "NEITHER", "reveal": "Totally made up. Sounds legit though, right?" }
+    ]
+  },
+  {
+    "id": 2,
+    "date": "2026-11-25",
+    "needsReview": true,
+    "categoryA": { "label": "IKEA products", "emoji": "🛋️" },
+    "categoryB": { "label": "Swedish towns", "emoji": "🇸🇪" },
+    "shortTitle": "IKEA vs Swedish Towns",
+    "packages": [
+      { "name": "BILLY", "answer": "A", "reveal": "IKEA's iconic bookcase, on sale since 1979." },
+      { "name": "Göteborg", "answer": "B", "reveal": "Gothenburg — Sweden's second-largest city." },
+      { "name": "Hygge", "answer": "NEITHER", "reveal": "A Danish word for cosiness. Wrong Scandinavian country." },
+      { "name": "BLÅHAJ", "answer": "A", "reveal": "The cuddly IKEA shark. The name literally means 'blue shark'." },
+      { "name": "Kiruna", "answer": "B", "reveal": "Sweden's northernmost town — its centre is being physically moved to make room for an iron mine." },
+      { "name": "POÄNG", "answer": "A", "reveal": "The bentwood armchair, around since 1976." },
+      { "name": "Flumbjörk", "answer": "NEITHER", "reveal": "Invented. Sounds exactly like a nightstand, doesn't it?" }
+    ]
+  },
+  {
+    "id": 3,
+    "date": "2026-11-26",
+    "needsReview": true,
+    "categoryA": { "label": "Dinosaurs", "emoji": "🦖" },
+    "categoryB": { "label": "Metal bands", "emoji": "🤘" },
+    "shortTitle": "Dinosaurs vs Metal Bands",
+    "packages": [
+      { "name": "Megadeth", "answer": "B", "reveal": "Thrash metal, founded by Dave Mustaine after he left Metallica." },
+      { "name": "Pterodactyl", "answer": "NEITHER", "reveal": "A flying pterosaur — a reptile, but not a dinosaur." },
+      { "name": "Mastodon", "answer": "B", "reveal": "A metal band from Atlanta. The real mastodon was a mammal, not a dinosaur." },
+      { "name": "Parasaurolophus", "answer": "A", "reveal": "A duck-billed dinosaur with a long, hollow head crest." },
+      { "name": "Gojira", "answer": "B", "reveal": "French metal band named after Godzilla's Japanese name." },
+      { "name": "Triceratops", "answer": "A", "reveal": "Three horns, one frill, zero metal albums." },
+      { "name": "Dimetrodon", "answer": "NEITHER", "reveal": "Sail-backed and in every toy dino set — but it's a synapsid, closer to mammals than to dinosaurs." }
+    ]
+  },
+  {
+    "id": 4,
+    "date": "2026-11-27",
+    "needsReview": true,
+    "categoryA": { "label": "Real startups", "emoji": "🚀" },
+    "categoryB": { "label": "Fictional companies (TV & film)", "emoji": "🎬" },
+    "shortTitle": "Real Startups vs Fictional Companies",
+    "packages": [
+      { "name": "Dunder Mifflin", "answer": "B", "reveal": "The paper company from The Office." },
+      { "name": "Juicero", "answer": "A", "reveal": "Real. Its Wi-Fi juicer cost up to $699 — and the juice packs could be squeezed by hand." },
+      { "name": "Skynet", "answer": "NEITHER", "reveal": "Skynet is the AI in The Terminator. The company that built it was Cyberdyne Systems." },
+      { "name": "Quibi", "answer": "A", "reveal": "Real. Raised about $1.75 billion and shut down roughly six months after launch." },
+      { "name": "Hooli", "answer": "B", "reveal": "The evil tech giant from HBO's Silicon Valley." },
+      { "name": "Wayne Enterprises", "answer": "B", "reveal": "Bruce Wayne's company. Funds a suspicious number of gadgets." },
+      { "name": "Aperture Science", "answer": "NEITHER", "reveal": "Fictional — but from the Portal video games, not TV or film." }
+    ]
+  },
+  {
+    "id": 5,
+    "date": "2026-11-28",
+    "needsReview": true,
+    "categoryA": { "label": "Shakespeare characters", "emoji": "🎭" },
+    "categoryB": { "label": "Harry Potter characters", "emoji": "🪄" },
+    "shortTitle": "Shakespeare vs Harry Potter",
+    "packages": [
+      { "name": "Gilderoy Lockhart", "answer": "B", "reveal": "The vain Defence Against the Dark Arts teacher." },
+      { "name": "Titania", "answer": "A", "reveal": "Queen of the fairies in A Midsummer Night's Dream." },
+      { "name": "Oberyn", "answer": "NEITHER", "reveal": "Oberyn Martell is from Game of Thrones. You're thinking of Oberon." },
+      { "name": "Mundungus Fletcher", "answer": "B", "reveal": "Petty thief and (reluctant) member of the Order of the Phoenix." },
+      { "name": "Malvolio", "answer": "A", "reveal": "The cross-gartered steward in Twelfth Night." },
+      { "name": "Rubeus Hagrid", "answer": "B", "reveal": "Keeper of Keys and Grounds at Hogwarts. A breather, officer." },
+      { "name": "Quillbert Mudgewort", "answer": "NEITHER", "reveal": "Invented. Nobody in either canon is called that." }
+    ]
+  },
+  {
+    "id": 6,
+    "date": "2026-11-29",
+    "needsReview": true,
+    "categoryA": { "label": "Pasta shapes", "emoji": "🍝" },
+    "categoryB": { "label": "Italian surnames", "emoji": "🇮🇹" },
+    "shortTitle": "Pasta vs Italian Surnames",
+    "packages": [
+      { "name": "Farfalle", "answer": "A", "reveal": "Bow-tie pasta. 'Farfalle' means butterflies." },
+      { "name": "Esposito", "answer": "B", "reveal": "Hugely common around Naples — historically given to abandoned children." },
+      { "name": "Risotto", "answer": "NEITHER", "reveal": "A rice dish. Not pasta, not a surname." },
+      { "name": "Strozzapreti", "answer": "A", "reveal": "Real pasta. The name means 'priest stranglers'." },
+      { "name": "Ferrari", "answer": "B", "reveal": "A surname long before it was a car — from 'ferraro', blacksmith." },
+      { "name": "Spaghetti", "answer": "A", "reveal": "'Little strings', from spago. You knew this one." },
+      { "name": "Bresaola", "answer": "NEITHER", "reveal": "Air-dried, salted beef from Lombardy. Delicious contraband." }
+    ]
+  },
+  {
+    "id": 7,
+    "date": "2026-11-30",
+    "needsReview": true,
+    "categoryA": { "label": "Fonts", "emoji": "🔤" },
+    "categoryB": { "label": "Prescription medications", "emoji": "💊" },
+    "shortTitle": "Fonts vs Prescription Meds",
+    "packages": [
+      { "name": "Helvetica", "answer": "A", "reveal": "The Swiss sans-serif that's on half the signs you've ever read." },
+      { "name": "Zoloft", "answer": "B", "reveal": "Sertraline, a common SSRI antidepressant." },
+      { "name": "Lorem Ipsum", "answer": "NEITHER", "reveal": "Placeholder text, not a font. Scrambled Cicero, actually." },
+      { "name": "Xeljanz", "answer": "B", "reveal": "Tofacitinib, used for rheumatoid arthritis." },
+      { "name": "Advil", "answer": "NEITHER", "reveal": "Ibuprofen sold over the counter. No prescription needed." },
+      { "name": "Comic Sans", "answer": "A", "reveal": "Yes, it's a font. Yes, it's real. A breather." },
+      { "name": "Candara", "answer": "A", "reveal": "A humanist sans-serif Microsoft shipped with Windows Vista." }
+    ]
+  }
+]
